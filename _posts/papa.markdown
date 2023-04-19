@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: April 19
-img: submarine.png
+img: papa.png
 alt: image-alt
 Name: April 2014
 Coloring: Black and White
