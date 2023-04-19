@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: April 19
-img: submarine.png
+img: momma.png
 alt: image-alt
 Name: April 2014
 Coloring: Tabby
