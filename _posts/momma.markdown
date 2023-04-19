@@ -6,6 +6,6 @@ img: momma.png
 alt: image-alt
 Name: April 2014
 Coloring: Tabby
-birth:
+birth: 01
 description: A description of momma cat (including name haha)
 ---

@@ -6,6 +6,6 @@ img: papa.png
 alt: image-alt
 Name: April 2014
 Coloring: Black and White
-birth:
+birth: 01
 description: A description of papa cat (including name haha)
 ---
