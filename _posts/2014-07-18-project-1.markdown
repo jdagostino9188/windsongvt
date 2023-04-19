@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 04.19/2023
+date: 04/19/2023
 img: submarine.png
 alt: image-alt
 Name: April 2014
