@@ -1,5 +1,5 @@
 # Site settings
-title: Windsong VT
+title: Windsong Cattery
 email: annie@windsongvt.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Windsong Cattery - Middlesex VT"
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Joshud D'Agostino
-  location: VT, USA
+  location: New England, USA
   social: Around the Web
   credits: Credits
 
